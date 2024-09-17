@@ -1,0 +1,26 @@
+{
+    "css": ".CALENDAR-INDEX-0, .CALENDAR-INDEX-0 .dhx_body, .CALENDAR-INDEX-0 .dhx_title  { background-color: #f37e08; } \n.CALENDAR-INDEX-1, .CALENDAR-INDEX-1 .dhx_body, .CALENDAR-INDEX-1 .dhx_title  { background-color: #4bcebe; } \n.CALENDAR-INDEX-2, .CALENDAR-INDEX-2 .dhx_body, .CALENDAR-INDEX-2 .dhx_title  { background-color: #964545; } \n.CALENDAR-INDEX-3, .CALENDAR-INDEX-3 .dhx_body, .CALENDAR-INDEX-3 .dhx_title  { background-color: #fff675; } \n.CALENDAR-INDEX-4, .CALENDAR-INDEX-4 .dhx_body, .CALENDAR-INDEX-4 .dhx_title  { background-color: #80d9ff; } \n.dhx_scale_holder_now, .dhx_now .dhx_month_head, .dhx_now .dhx_month_body { background-color: #ede8e8;}.dhx_after .dhx_month_body, .dhx_before .dhx_month_body, .dhx_after .dhx_month_head, .dhx_before .dhx_month_head { background-color: #acaaaa; }",
+    "ending_hour": "20",
+    "hour_format": "%g:%i %A",
+    "skin": "flat",
+    "start_of_week": "su",
+    "starting_hour": "6",
+    "style-event-status-cancelled": true,
+    "style-event-status-confirmed": true,
+    "style-event-status-tentative": true,
+    "tabs": [
+        "month",
+        "week",
+        "day",
+        "agenda"
+    ],
+    "timezone": "America/Denver",
+    "title": "Pure Benefits Master Calendar",
+    "url": [
+        "https://outlook.office365.com/owa/calendar/ce48df1145e14afaaf74ea7214eb33a4@pbagency.us/8842601fac8c44b48c4d3ea494763e7f4676693138660104289/calendar.ics",
+        "https://outlook.office365.com/owa/calendar/ce48df1145e14afaaf74ea7214eb33a4@pbagency.us/c28e9c1150db41efa70985764b0b98cc15337774217347844705/calendar.ics",
+        "https://outlook.office365.com/owa/calendar/ce48df1145e14afaaf74ea7214eb33a4@pbagency.us/ffd61c6c17ea4be79a0dcf86cf4519ba16846643542354016029/calendar.ics",
+        "https://outlook.office365.com/owa/calendar/ce48df1145e14afaaf74ea7214eb33a4@pbagency.us/d115b2c87319430094683724ecaf3def12964617907230958441/calendar.ics",
+        "https://outlook.office365.com/owa/calendar/ce48df1145e14afaaf74ea7214eb33a4@pbagency.us/63f7cb9545624b4f9cd3590c5e8866e118087332416367506628/calendar.ics"
+    ]
+}
